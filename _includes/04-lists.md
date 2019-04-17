@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* :tada:
+* dit is een lijst
+  * vind je 'm mooi?
+  * yep
+* en het laatste punt! :smile:
